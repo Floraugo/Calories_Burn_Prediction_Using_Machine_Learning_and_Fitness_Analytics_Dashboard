@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Models (large files)
+*.pkl
+*.joblib
+*.h5
+*.pb
+
+# Data (large files)
+*.csv
+*.xlsx
+
+# Colab
+sample_data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+*.env
+*_token*

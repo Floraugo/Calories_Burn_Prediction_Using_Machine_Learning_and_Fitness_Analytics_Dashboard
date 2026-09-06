@@ -1,9 +1,3 @@
-# ============================================================================
-# CALORIE BURN PREDICTION - FULL PIPELINE
-# ============================================================================
-# This script trains an XGBoost model, generates predictions, and saves files
-# ============================================================================
-
 import kagglehub
 import pandas as pd
 import numpy as np
